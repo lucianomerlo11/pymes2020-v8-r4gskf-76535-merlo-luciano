@@ -13,9 +13,6 @@ export class EmpresasComponent implements OnInit {
     Titulo:String = "Empresas";
 	  TituloAccionABMC = {
       A: "(Agregar)",
-	    B: "(Eliminar)",
-	    M: "(Modificar)",
-	    C: "(Consultar)",
 	    L: "(Listado)"
 
 	  };
